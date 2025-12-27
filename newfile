@@ -5,3 +5,5 @@ git pull: brings the changes from central repo and merges automatically to the l
 git pull <repo_url>
 git fetch: it brings the changes from central repo and stores it in a separate branch called FETCH_HEAD, 
 here we can review the changes and merge it to the local workspace if required
+tetsing git fetch 
+git fetch -> git checkout FETCH_HEAD
