@@ -3,3 +3,5 @@ tetetetetetete pushing back the content
 testing git pull -- 
 git pull: brings the changes from central repo and merges automatically to the local workspace
 git pull <repo_url>
+git fetch: it brings the changes from central repo and stores it in a separate branch called FETCH_HEAD, 
+here we can review the changes and merge it to the local workspace if required
